@@ -1,10 +1,10 @@
-<img alt="Header" src="header-ulysses.png" />
+<img alt="Header" src="header-image.png" />
 
 # Conteúdo para estudos!
 
 O objetivo deste repositório é reunir conteúdo para consultar durante estudos. Irei separar em sessões de:
 
-<p align ="left">
+<p align="left">
   <a href="#cursos">🎓 Cursos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#canais-youtube-e-repositorios">📚 Livros</a>
@@ -108,6 +108,10 @@ Um extra para os livros - [Repositório com livros grátis de programação](htt
 - [Red Rising Saga](#)
 - [Fundação Saga](#)
 - [O Principe de Nada Saga](#)
+- [Lord of the Mysteries](#)
+- [Worm](#)
+- [O Principe de Nada Saga](#)
+
 
 ## Canais no Youtube:
 
