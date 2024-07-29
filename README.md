@@ -4,7 +4,7 @@
 
 O objetivo deste repositório é reunir conteúdo para consultar durante estudos. Irei separar em sessões de:
 
-<p align ="left">
+<p>
   <a href="#cursos">🎓 Cursos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#canais-youtube-e-repositorios">📚 Livros</a>
