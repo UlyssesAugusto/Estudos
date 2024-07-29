@@ -84,8 +84,8 @@ Legenda:
 - Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Resumindo](Resumos/livros/getting-real/resumo-getting-real.md) 📙
 - Rework 📙
 - Startup, Jessica Livingston 📙
-- [The twelve-factor methodology to scale a software](https://12factor.net) 📙
-- [Pro Git, Livro Oficial](https://git-scm.com/book/pt-br/v2)
+- The twelve-factor methodology to scale a software [Resumo](https://12factor.net) 📙
+- Pro Git, Livro Oficial [Resumo](https://git-scm.com/book/pt-br/v2)
 - O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumo](Resumos/livros/programador-apaixonado/resumo-programador-apaixonado.md) 📙
 
 Um extra para os livros - [Repositório com livros grátis de programação](https://github.com/EbookFoundation/free-programming-books)
