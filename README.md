@@ -4,7 +4,7 @@
 
 O objetivo deste repositório é reunir conteúdo para consultar durante estudos. Irei separar em sessões de:
 
-<p>
+<p align ="left">
   <a href="#cursos">🎓 Cursos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#canais-youtube-e-repositorios">📚 Livros</a>
@@ -70,8 +70,8 @@ Legenda:
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 - Modern Operating Systems
 - Concepts, Techniques, and Models of Computer Programming
-- The Mythical Man-Month 📙 [Resumo](./resumos/livros/the-mythical-man-month/resumo.md)
-- Clean Code - 📖 [Resumindo](./resumos/livros/clean-code/resumo.md)
+- The Mythical Man-Month 📙 [Resumo](Resumos/livros/the-mythical-man-month/resumo.md)
+- Clean Code - 📖 [Resumindo](Resumos/livros/clean-code/resumo.md)
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
 - Algoritmos e Estruturas de Dados Niklaus Wirth
@@ -80,13 +80,13 @@ Legenda:
 
 ### Software geral
 
-- The Pragmatic Programmer - [Resumindo](./resumos/livros/the-pragmatic-programmer/resumo-the-pragmatic-programmer.md) 📙
-- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Resumindo](./resumos/livros/getting-real/resumo-getting-real.md) 📙
+- The Pragmatic Programmer - [Resumindo](Resumos/livros/the-pragmatic-programmer/resumo-the-pragmatic-programmer.md) 📙
+- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Resumindo](Resumos/livros/getting-real/resumo-getting-real.md) 📙
 - Rework 📙
 - Startup, Jessica Livingston 📙
 - [The twelve-factor methodology to scale a software](https://12factor.net) 📙
 - [Pro Git, Livro Oficial](https://git-scm.com/book/pt-br/v2)
-- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumo](./resumos/livros/programador-apaixonado/resumo-programador-apaixonado.md) 📙
+- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumo](Resumos/livros/programador-apaixonado/resumo-programador-apaixonado.md) 📙
 
 Um extra para os livros - [Repositório com livros grátis de programação](https://github.com/EbookFoundation/free-programming-books)
 
