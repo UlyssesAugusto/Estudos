@@ -85,35 +85,29 @@ Legenda:
 - Rework 📙
 - Startup, Jessica Livingston 📙
 - The twelve-factor methodology to scale a software [Resumo](https://12factor.net) 📙
-- Pro Git, Livro Oficial [Resumo](https://git-scm.com/book/pt-br/v2)
+- Pro Git, Livro Oficial [Resumo](https://git-scm.com/book/pt-br/v2)📙
 - O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumo](Resumos/livros/programador-apaixonado/resumo-programador-apaixonado.md) 📙
 
 Um extra para os livros - [Repositório com livros grátis de programação](https://github.com/EbookFoundation/free-programming-books)
 
 ### Livros diversos
 
-- [Sapiens - Uma Breve História da Humanidade](https://www.amazon.com.br/dp/8525432180/?coliid=I9MSG8IEA89CZ&colid=1NG7QCFUSM0T4&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it)
-- [Peopleware: Productive Projects and Teams](https://www.amazon.com.br/dp/B00DY5A8X2/?coliid=I2K7J0GHA7AY9U&colid=1NG7QCFUSM0T4&psc=0&ref_=list_c_wl_lv_vv_lig_dp_it)
-- [Algoritmos - Teoria e Prática](https://www.amazon.com.br/dp/8535236996/?coliid=IKV1FJ66QV4F2&colid=1NG7QCFUSM0T4&psc=0&ref_=list_c_wl_lv_vv_lig_dp_it)
-- [O efeito Lúcifer: Como pessoas boas se tornam más](https://www.amazon.com.br/dp/8501082198/?coliid=IM5YGQPA51DCZ&colid=1NG7QCFUSM0T4&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it)
-- [Previsivelmente irracional: As forças invisíveis que nos levam a tomar decisões erradas](https://www.amazon.com.br/dp/B08FCPHS8J/?coliid=I1450GYFRCX69S&colid=1NG7QCFUSM0T4&psc=0&ref_=list_c_wl_lv_vv_lig_dp_it)
-- [Network Science](https://www.amazon.com.br/dp/1107076269/?coliid=I1OCE2QKIBBCGD&colid=1NG7QCFUSM0T4&psc=0&ref_=list_c_wl_lv_vv_lig_dp_it)
-- [De zero a um](https://www.amazon.com.br/dp/8539006200/?coliid=I2NDEK8Z00V63A&colid=3U9UZQ07YPCQ0&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it)
-- [Rápido e devagar: Duas formas de pensar](https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X)
-- [Como Fazer Amigos e Influenciar Pessoas Livro](https://www.amazon.com.br/Como-fazer-amigos-influenciar-pessoas/dp/8543108683)
-
-### Filosofia, estoicismo e clássicos
-
-- [Cartas de um Estoico, Volume 1, 2 e 3](https://www.amazon.com.br/gp/product/B09QH6QCVM?ref_=dbs_p_mng_rwt_ser_shvlr&storeType=ebooks)
-- [Filosodia](https://www.infolivros.org/livros-pdf-gratis/filosofia/)
-- [Clássicos](https://www.infolivros.org/autores/classicos/)
+- [Sapiens - Uma Breve História da Humanidade](#)
+- [Peopleware: Productive Projects and Teams](#)
+- [Algoritmos - Teoria e Prática](#)
+- [O efeito Lúcifer: Como pessoas boas se tornam más](#)
+- [Previsivelmente irracional: As forças invisíveis que nos levam a tomar decisões erradas](#)
+- [Network Science](#)
+- [De zero a um](#)
+- [Rápido e devagar: Duas formas de pensar](#)
+- [Como Fazer Amigos e Influenciar Pessoas Livro](#)
 
 ### Para passar o tempo
 
-- [Duna Saga](https://www.amazon.com.br/Duna-Frank-Herbert/dp/857657313X)
-- [Red Rising Saga](https://www.amazon.com.br/Red-Rising-Pierce-Brown/dp/034553980X)
-- [Fundação Saga](https://www.amazon.com.br/Box-Funda%C3%A7%C3%A3o-Completa-Isaac-Asimov/dp/6586064910/ref=sr_1_1?adgrpid=111486306938&dib=eyJ2IjoiMSJ9.Zq7yxxFImqJmakX5RFVngytCgpyPZsVTRgrOTTuLYSCcI4PW9sHELUJN873MRt30nsN5fifAN5B9L8PVAPDrVGi0dPuK-m_jisDi--TFN5z1oo6j71U6WO-5eEbPrJWQH7fw_sZwZ8PO_2vZFOFpohZl-UStaARjMYMI_4rzZ0ejPtl-LggQ-wPq0cPsVCsXCfoufML3gPbFOUYqINRLL-p1h6CQR9rSh_9hSqHCeQ_J3eyGHZbzOZEn3mKZUbx4sOynER7HjYC8b1OccIHf-0Qs1OETJiHIBuWBOEKot7k.QDZ7Op2DVb--iJDGCzehpIgyLcUGw5JXKMT0CKi4yM4&dib_tag=se&hvadid=595940478656&hvdev=c&hvlocphy=9074195&hvnetw=g&hvqmt=e&hvrand=9410060953576777519&hvtargid=kwd-900290687708&hydadcr=21569_13354149&keywords=funda%C3%A7%C3%A3o+livros&qid=1721068462&sr=8-1&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
-- [O Principe de Nada Saga](https://www.amazon.com.br/Darkness-That-Comes-Before/dp/1590201183/ref=pd_sim_d_sccl_1_1/138-0416563-7016340?pd_rd_w=oljeM&content-id=amzn1.sym.8555f615-361b-42f7-96c4-206bb8a5174e&pf_rd_p=8555f615-361b-42f7-96c4-206bb8a5174e&pf_rd_r=9SE4V057352CCMD266PY&pd_rd_wg=LvHWm&pd_rd_r=f11c1dcf-5eb2-4026-9071-b35bdf656b6b&pd_rd_i=1590201183&psc=1)
+- [Duna Saga](#)
+- [Red Rising Saga](#)
+- [Fundação Saga](#)
+- [O Principe de Nada Saga](#)
 
 ## Canais no Youtube:
 
@@ -142,7 +136,7 @@ Um extra para os livros - [Repositório com livros grátis de programação](htt
 
 ## Sites para praticar programação
 
-Esses links serão bem úteis caso você queira melhorar sua habilidade de entedimento lógico, treinar alguma linguagem, praticar algoritmos ou treinar com mentores
+Esses links serão bem úteis caso você queira melhorar sua habilidade de entedimento lógico, treinar alguma linguagem, praticar algoritmos ou treinar.
 
 - [LeetCode](https://leetcode.com)
 - [Exercise](https://exercism.io/)
@@ -151,6 +145,9 @@ Esses links serão bem úteis caso você queira melhorar sua habilidade de ented
 - [Project Euler](https://projecteuler.net/)
 - [Code Combat (game)](https://br.codecombat.com/)
 - [Code Signal](https://codesignal.com/)
+- [TryHackMe](https://tryhackme.com/)
+- [Code Signal](https://codesignal.com/)
+
 
 ## 📝Artigos e sites
 
@@ -169,6 +166,7 @@ Links, sites e artigos que agregam de alguma forma o conhecimento.
 - [Especificação para padronizar Commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
 - [Ideias e pesquisas de Stanford](https://ecorner.stanford.edu)
 - [Repositório de pesquisas acadêmicas sobre Ciência da Computação](https://arxiv.org/corr)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Developer Roadmaps](https://roadmap.sh/)
 
 Interessante:
