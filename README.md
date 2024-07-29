@@ -7,8 +7,6 @@ O objetivo deste repositório é reunir conteúdo para consultar durante estudos
 <p align ="left">
   <a href="#cursos">🎓 Cursos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#livros">📚 Livros</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#canais-youtube-e-repositorios">📚 Livros</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#artigos-e-sites">📝Artigos e sites</a>
